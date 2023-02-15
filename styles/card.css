@@ -17,7 +17,7 @@
   /* margin: 10px; */
   /* top: 24px; */
   display: grid;
-  grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;
+  grid-template-columns: 0.6fr 0.6fr 0.6fr 0.6fr 0.6fr 0.6fr;
   justify-content: center;
   background-color: #3a3a3a;
 }
