@@ -17,7 +17,7 @@
   /* margin: 10px; */
   /* top: 24px; */
   display: grid;
-  grid-template-columns: repeat(6, 1fr));
+  grid-template-columns: repeat(6, 1fr);
   justify-content: center;
   background-color: #3a3a3a;
 }
