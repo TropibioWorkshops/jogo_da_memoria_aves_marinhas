@@ -41,7 +41,7 @@
 }
 
 .card:active {
-  transform: scale(0.97);
+  transform: scale(0.77);
   transition: transform 0.2s;
 }
 
